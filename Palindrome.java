@@ -12,6 +12,7 @@ public class Palindrome {
             System.out.println ("Palindrome");
         } else {
             System.out.println ("It is not palindrome");
+            System.out.println("Foeward");
         }
     }
 }
