@@ -13,7 +13,7 @@ public class Repeat {
             System.out.print (s);
             System.out.println("sg");
             System.out.println("forward");
-            System.out.println("noforward!");
+            System.out.println("noforward!!");
         }
     }
 }
