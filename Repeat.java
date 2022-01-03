@@ -11,6 +11,8 @@ public class Repeat {
         for (int count = 0; count < str.length (); count++) {
             String s = String.valueOf (str.charAt (count)).repeat (2);
             System.out.print (s);
+            System.out.println("sg");
+            System.out.println("forward");
         }
     }
 }
